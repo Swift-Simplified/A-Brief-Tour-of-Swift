@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
+        <page name='→ Start Here (Click On Me)'/>
         <page name='Simple Values'/>
         <page name='Control Flow'/>
         <page name='Functions and Closures'/>
@@ -10,5 +11,6 @@
         <page name='Protocols and Extensions'/>
         <page name='Error Handling'/>
         <page name='Generics'/>
+        <page name='Terms And Conditions'/>
     </pages>
 </playground>
