@@ -85,19 +85,19 @@ Why not think about becoming an iOS developer making apps for Apple software. �
 
 ## Swift Simplified Services 🧑🏼‍🔧👨🏾‍🔧👩🏻‍🔧
 
-- 👉 **[The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook)** [Take a look](https://www.swiftsimplified.com/the-swift-handbook).
+- 👉 **[The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook)**. [Take a look](https://www.swiftsimplified.com/the-swift-handbook).
 
 	The Swift Handbook is our main online course, simplifiying the [Official Swift Programming Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) within a Swift playground. [Take a look](https://www.swiftsimplified.com/the-swift-handbook).
 
-- 👉🏿 **[Official Swift Language Guide](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics)** [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics).
+- 👉🏿 **[Official Swift Language Guide](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics)**. [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics).
 	
 	We converted the [Official Swift Programming Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) into Swift playgrounds to run all of the code examples in [Xcode](https://developer.apple.com/xcode/). [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics).
 
-- 👉🏾 **[Free Swift Playgrounds](https://www.swiftsimplified.com/swift-playgrounds)** [Try it](https://www.swiftsimplified.com/swift-playgrounds).
+- 👉🏾 **[Free Swift Playgrounds](https://www.swiftsimplified.com/swift-playgrounds)**. [Try it](https://www.swiftsimplified.com/swift-playgrounds).
 
 	Our website contains downloadable [GitHub repos](https://github.com/MatthewpHarding/FREE-PLAYGROUND-combine), which are great for learning Swift. [Try it](https://www.swiftsimplified.com/swift-playgrounds).
 
-- 👉🏼 **[Swift Career Blog](https://www.swiftsimplified.com/swift-career-blog)** [Try it](https://www.swiftsimplified.com/swift-career-blog).
+- 👉🏼 **[Swift Career Blog](https://www.swiftsimplified.com/swift-career-blog)**. [Try it](https://www.swiftsimplified.com/swift-career-blog).
 
 	Our website has a blog all about the tech industry and how to climb your career faster. [Try it](https://www.swiftsimplified.com/swift-career-blog).
 
