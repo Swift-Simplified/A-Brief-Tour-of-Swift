@@ -21,19 +21,19 @@ We took the official [Swift Language Guide](https://docs.swift.org/swift-book/do
 We named this product → [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook).
 
 ## Topics Covered In [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook) - An Online Course
-1. The Basics
-2. Control Flow
-3. Optionals
-4. Functions and Closures
-5. Classes
-6. Structs
-7. Enums
-8. ARC
-9. Extensions
-10. Protocols
-11. Concurrency
-12. Error Handling
-13. Generics
+1. [The Basics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
+2. [Control Flow](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+3. [Optionals](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining)
+4. [Functions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions) and [Closures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures)
+5. [Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+6. [Structs](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+7. [Enums](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations)
+8. [ARC](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting) (Automatic Reference Counting)
+9. [Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions)
+10. [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols)
+11. [Concurrency](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency)
+12. [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling)
+13. [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics)
 
 ## Did You Know 💡
 
