@@ -1,126 +1,151 @@
 ![Swift](readme-images/swift-simplified-logo.png)
 
-[SwiftSimplified.com](https://www.swiftsimplified.com) | [Swift.org](https://docs.swift.org).
+## Swift Simplified .com
 
-Simplifying the official [Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) into [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook). 😍
+[SwiftSimplified.com](https://www.swiftsimplified.com) | [Swift.org](https://docs.swift.org) | [Swift Online Course](https://www.swiftsimplified.com/the-swift-handbook)
 
-![instructor](readme-images/instructor-profile.png) [*with Matthew Harding*](https://www.udemy.com/user/iosbfree/)
-# README 👈
-## The Official  Apple Guided Tour Playground File
-Uneditted and in the original state it was published, this Swift playground file is an introduction into the Swift programming language. 
+Simplifying [the official Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) created by Apple for students studying the Swift programming language. 
 
-Please download or clone the repo to take the guided tour, written by Swift engineers at  Apple.
+## The  Swift Guided Tour 
+The official  guided tour document can be found online [here](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/).
 
-This is not created by Swift Simplified and its distribution is intended to add an extra resource as a learning aid to our Swift students. 
+![Screenshot](readme-images/Swift-guided-tour.png)
+
+This repo contains and the original Swift Guided Tour Xcode playgound  uneditted  and in the original state it was published.
+
+Open the `GuidedTour.playground` file to get started. 
 
 ### 🙋🏼‍♂️🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
 
-## We Created An Online Course 
-We took the official [Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/), converted it into a Swift playground, simplified it, condensed it and created a short online course.. which doubles as a language handbook!
+## What Is It?
+Apple created this guided tour to introduce and explore the Swift language.
 
-We named this product → [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook).
+They initially published a small Xcode playground file to be opened in Xcode and later replaced the download with online documentation. Found [here](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/).
 
-## Topics Covered In [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook) - An Online Course
-1. The Basics
-2. Control Flow
-3. Optionals
-4. Functions and Closures
-5. Classes
-6. Structs
-7. Enums
-8. ARC
-9. Extensions
-10. Protocols
-11. Concurrency
-12. Error Handling
-13. Generics
+This is the original unedited Swift playground.
 
-## Did You Know 💡
+## Contents
+Apple created [the Swift Guided Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/) as an introduction to some key concepts of Swift.  
 
-When declaring an array the last element could end with a comma?
+The contents are below.
 
-```Swift 
-let shoppingList = ["apples", "oranges", "pears",] 👈 😲
-```
+1. [Simple Values](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
+5. [Control Flow](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+6. [Functions and Closures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions)
+8. [Enumerations and Structures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations)
+9. [Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+18. [Concurrency](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency)
+22. [Protocols and Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols)
+17. [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling)
+23. [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics)
 
-## Did You Know 2 💡
-We can replace the need to use `self` when using optional binding to unwrap a value.
+## Executable Code Examples
 
-```Swift 
-if let self {
-    // Swift 5.7 now allows us to omit the "== self"
-}
+Swift playgrounds support markdown language with allow formatted intructions to be present next to executable lines of code. Each of these instructions contains editable and executable code examples.
 
-// no more
-if let strongSelf = self {
-    // Use the newly created constant with a strong reference to self 
-}
-```
-😃 Good to know! Most people won't know about this new addition to the Swift language.
+To execute the line of code select the corresonding line number in Xcode.
 
 ## How To Become A Swift Engineer
-Most companies that offer iOS developer jobs simply need to maintain an existing Swift system that has previoiusly been put in place. Creating the architecture and thinking about performance can be difficult and may require some expert knowledge, but they are not the needs of most companies. In fact, if you are interested in maintaining an existing system then the technology industry will be a huge market place in which to advertise your skills. 
+Most companies offering iOS developer jobs require maintenance for existing products written in Swift. 
 
-With the interest of both parties in mind *(the business and the employee)* having great Swift knowledge and being able to write safe code will be the biggest focus - *which is great news!* 😃🥳🎉 
+This opens new avenues for junior developers looking to penetrate the tech industry compared to previous years when developers were require to build systems from the ground up.
 
-This means, all you need to do is 👉 **[learn Swift!](https://www.swiftsimplified.com/the-swift-handbook)** 👈
+Today, it may be a faster strategy to learn the required computer programming language followed by code architecture, app development and how to design UI *(user interfaces)*.
 
-## Why Learn Swift
-To become an iOS developer with a great salary who can work anywhere in the world using only a laptop and an internet connection. 
+We teach the main language features of Swift in our [online course](https://www.swiftsimplified.com/the-swift-handbook).
 
-By studying the language all of the other pieces of the puzzle will fall into place. With a clear grasp of the Swift programming language it will be much easier to apply for jobs and to pass each test they provide. The rest will be provided to you as you learn whats required within that role for that specific company. 
+We've also converted [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) into Swift playgrounds. [Take a look](https://www.swiftsimplified.com/the-language-guide).
 
-**Step 1**: Learn Swift
+## Why Learn Swift?
+Wouldn't it make sense to build a career writing software for the worlds no.1 most profitable company? 
 
-**Step 2**: Get A Job  - *learn how to make apps*
+According to Fortune Global’s 500 list in 2020) Apple Inc was the global most profitable company reporting an annual profit of $57.41 billion US dollars. In a world with an ever increasing demand for smart devices those who have software angineering skills will never be without work. In fact, those who study the computer programming languages used by companies such as Apple, Microsoft, Google and Amazon will be sure to have a very successful and profitable career.
 
-**Step 3**: 🕺🏼💃🪩
+[Swift](https://docs.swift.org) is the new programming language chosen by Apple to write apps and the supporting frameworks for all of their iOS and macOS products. It was first released in June 2014 as a replacement for it's predecessor Objective-C. 
 
-## Support The Worlds no.1 Company 
-Wouldn't it make sense to write software for the worlds no.1 most prifitable company? I mean.. if you want to gain a good career and live a wealthy lifestyle. 🤷🏼‍♂️
+Start learning Swift with [SwiftSimplified.com](https://www.swiftsimplified.com)
 
-We are tyring to consolidate more than a decades commercial experience combined with the official Swift documentation into short online courses *(created for fast learning)*, so that our students can live happier and wealthier lives - simply by learning 1 language! 😎
+## Recommended Learning Path
 
-Why not think about becoming an iOS developer making apps for Apple software. 🤔💭
+**Step 1**: Learn the Swift programming language.
 
-## Swift Simplified Services 🧑🏼‍🔧👨🏾‍🔧👩🏻‍🔧
+**Step 2**: Learn about code architecure and how to structure code.
 
-- 👉 **[The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook)** [Take a look](https://www.swiftsimplified.com/the-swift-handbook).
+**Step 3**: Get a job in the tech industry maintaining existing products *(iOS apps)*.
 
-	The Swift Handbook is our main online course, simplifiying the [Official Swift Programming Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) within a Swift playground. [Take a look](https://www.swiftsimplified.com/the-swift-handbook).
+**Step 4**: Learn how to create apps from the beginning *(known as "greenfield" projects)*.
 
-- 👉🏿 **[Official Swift Language Guide](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics)** [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics).
-	
-	We converted the [Official Swift Programming Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) into Swift playgrounds to run all of the code examples in [Xcode](https://developer.apple.com/xcode/). [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics).
+## Recommended Studying
+We recommend studying the following Swift language features to become a Swift engineer. We teach them in our [online course](https://www.swiftsimplified.com/the-swift-handbook).
 
-- 👉🏾 **[Free Swift Playgrounds](https://www.swiftsimplified.com/swift-playgrounds)** [Try it](https://www.swiftsimplified.com/swift-playgrounds).
+1. [The Basics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
+2. [Control Flow](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+3. [Optionals](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining)
+4. [Functions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions) and [Closures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures)
+5. [Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+6. [Structs](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+7. [Enums](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations)
+8. [ARC](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting) (Automatic Reference Counting)
+9. [Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions)
+10. [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols)
+11. [Concurrency](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency)
+12. [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling)
+13. [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics)
 
-	Our website contains downloadable [GitHub repos](https://github.com/MatthewpHarding/FREE-PLAYGROUND-combine), which are great for learning Swift. [Try it](https://www.swiftsimplified.com/swift-playgrounds).
+## Simplifying The Official Swift Language Guide 
+**The Swift Language Guide:** We took [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) created by Apple and converted it into Swift playgrounds that can be opened in Xcode. 
 
-- 👉🏼 **[Swift Career Blog](https://www.swiftsimplified.com/swift-career-blog)** [Try it](https://www.swiftsimplified.com/swift-career-blog).
+The official documentation introduces 28 language features and is available to download on our website as a Swift playground with 28 pages of editable and executable code examples.
 
-	Our website has a blog all about the tech industry and how to climb your career faster. [Try it](https://www.swiftsimplified.com/swift-career-blog).
+**Our Online Course:** We took [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) and converted it into Swift playgrounds. We simplified it, condensing the main language features into a short course that teaches all main topics required to become a Swift engineer *(based off official documentation)*. 
 
+We named our online course [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook).
+
+## The Swift Language Guide
+Apple created [the Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) to teach the following language features.
+
+1. [The Basics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
+2. [Basic Operators](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators)
+3. [Strings and Characters](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters)
+4. [Collection Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes)
+5. [Control Flow](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+6. [Functions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions)
+7. [Closures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures)
+8. [Enumerations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations)
+9. [Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+10. [Properties](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties)
+11. [Methods](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods)
+12. [Subscripts](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts)
+13. [Inheritance](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance)
+14. [Initialization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization)
+15. [Deinitialization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization)
+16. [Optional Chaining](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining)
+17. [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling)
+18. [Concurrency](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency)
+19. [Type Casting](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting)
+20. [Nested Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes)
+21. [Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions)
+22. [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols)
+23. [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics)
+24. [Opaque Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes)
+25. [Automatic Reference Counting](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting)
+26. [Memory Safety](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/memorysafety)
+27. [Access Control](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol)
+28. [Advanced Operators](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators)
+
+We converted [the official Swift language guide](https://www.swiftsimplified.com/the-language-guide) into executable Swift playgrounds and made it free for our students. [Try it](https://www.swiftsimplified.com/the-language-guide) on our website. 
+
+![Swift Simplified .com](readme-images/swift-simplified-logo.png)
 ## [Swift Simplified .com](https://www.swiftsimplified.com)
-![Swift Simplified .com](readme-images/swift-simplified-logo-footer.png)
+[Website](https://www.swiftsimplified.com) | [The Swift Language Guide](https://www.swiftsimplified.com/the-language-guide) | [Our Online Course](https://www.swiftsimplified.com/the-swift-handbook) | [Extra Study Materials](https://www.swiftsimplified.com/downloads)
 
-[Website](https://www.swiftsimplified.com) | [Career Blog](https://www.swiftsimplified.com/swift-career-blog) | [Free Playgrounds](https://www.swiftsimplified.com/swift-playgrounds) | [The Swift Handbook 📖](https://www.swiftsimplified.com/the-swift-handbook)
+🛠 *..let's live a better life, by learning Swift* 
 
-🛠 *..let's live a better life, by learning Swift* 🚀
-
-```Swift
-let myLife = [learning, coding, happiness] 
-```
-Welcome to our community of [Swift Simplified](https://www.swiftsimplified.com) students!
 ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
 
+Welcome to our community of [Swift Simplified](https://www.swiftsimplified.com) students!
 
-
-
-
-
-
-
+----------
 
 ### SEO *(Search Engine Optimisation)* - not for you 😉
 
