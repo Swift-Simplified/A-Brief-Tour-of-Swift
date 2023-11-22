@@ -1,9 +1,14 @@
 //: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//: ## The  Swift Guided Tour
-//: ## An Introduction to the Swift Language
-//: This material is an uneditted duplicate of the offical Apple Guided Tour Swift playground, taken from the Swift.org website.
 //:
-//: ![SwiftSimplified.com](ss-in-content-logo.png) [SwiftSimplified.com](https://www.swiftsimplified.com)
+//: ![Swift Simplified .com](ss-in-content-logo.png) [Swift Simplified .com](https://www.swiftsimplified.com)
+//:
+//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Online Course](https://www.swiftsimplified.com/the-swift-handbook) | [Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//:
+//: -------------------
+//: ## The  Swift Guided Tour
+//: This material is an uneditted duplicate of the offical Apple [Guided Tour Swift playground](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour), taken from the Swift.org website.
+//:
+//: v1 | Swift v5.7+ | Xcode 14+ | [Swift.org html Version](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
 //:
 //: -------------------
 /*:
@@ -41,15 +46,17 @@ Copyright (C) 2023 Swift Simplified. All Rights Reserved.
 //:
 //: -------------------
 //:
-//: 👉 [Previous Page](@previous)
+//: [Previous Page](@previous)
 //:
 //: -------------------
 //:
 //: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//: [Website](https://www.swiftsimplified.com) | [Career Blog](https://www.swiftsimplified.com/swift-career-blog) | [Free Swift Playgrounds](https://www.swiftsimplified.com/swift-playgrounds) | [The  Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The  Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
 //:
-//: 🛠 *..let's live a better life, by learning Swift* 🚀
+//: 🛠 *..let's live a better life, by learning Swift*
 //:
-//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!
+//: -------------------
 //:
 //: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
+//:
+//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!

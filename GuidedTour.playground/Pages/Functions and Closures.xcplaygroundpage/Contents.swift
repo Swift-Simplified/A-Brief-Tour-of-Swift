@@ -1,3 +1,16 @@
+//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
+//:
+//: ![Swift Simplified .com](ss-in-content-logo.png) [Swift Simplified .com](https://www.swiftsimplified.com)
+//:
+//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Online Course](https://www.swiftsimplified.com/the-swift-handbook) | [Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//:
+//: -------------------
+//: ## The  Swift Guided Tour
+//: This material is an uneditted duplicate of the offical Apple [Guided Tour Swift playground](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour), taken from the Swift.org website.
+//:
+//: v1 | Swift v5.7+ | Xcode 14+ | [Swift.org html Version](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
+//:
+//: -------------------
 //: ## Functions and Closures
 //:
 //: Use `func` to declare a function. Call a function by following its name with a list of arguments in parentheses. Use `->` to separate the parameter names and types from the function’s return type.
