@@ -112,6 +112,19 @@ let threeOfSpadesDescription = threeOfSpades.simpleDescription()
 //: - Experiment:
 //: Write a function that returns an array containing a full deck of cards, with one card of each combination of rank and suit.
 //:
-
-
+//: -------------------
+//:
 //: [Previous](@previous) | [Next](@next)
+//:
+//: -------------------
+//:
+//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
+//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//:
+//: 🛠 *..let's live a better life, by learning Swift*
+//:
+//: -------------------
+//:
+//: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
+//:
+//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!

@@ -110,7 +110,20 @@ print(mappedNumbers)
 //:
 let sortedNumbers = numbers.sorted { $0 > $1 }
 print(sortedNumbers)
-
-
-
+//:
+//: -------------------
+//:
 //: [Previous](@previous) | [Next](@next)
+//:
+//: -------------------
+//:
+//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
+//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//:
+//: 🛠 *..let's live a better life, by learning Swift*
+//:
+//: -------------------
+//:
+//: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
+//:
+//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!

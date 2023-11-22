@@ -118,9 +118,21 @@ for i in 0..<4 {
     total += i
 }
 print(total)
-
 //: Use `..<` to make a range that omits its upper value, and use `...` to make a range that includes both values.
 //:
-
-
+//: -------------------
+//:
 //: [Previous](@previous) | [Next](@next)
+//:
+//: -------------------
+//:
+//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
+//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//:
+//: 🛠 *..let's live a better life, by learning Swift*
+//:
+//: -------------------
+//:
+//: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
+//:
+//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!
