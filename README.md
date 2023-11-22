@@ -71,10 +71,6 @@ Start learning Swift with [SwiftSimplified.com](https://www.swiftsimplified.com)
 
 **Step 2**: Learn about code architecure and how to structure code.
 
-**Step 3**: Get a job in the tech industry maintaining existing products *(iOS apps)*.
-
-**Step 4**: Learn how to create apps from the beginning *(known as "greenfield" projects)*.
-
 ## Recommended Studying
 We recommend studying the following Swift language features to become a Swift engineer. We teach them in our [online course](https://www.swiftsimplified.com/the-swift-handbook).
 
@@ -93,13 +89,9 @@ We recommend studying the following Swift language features to become a Swift en
 13. [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics)
 
 ## Simplifying The Official Swift Language Guide 
-**The Swift Language Guide:** We took [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) created by Apple and converted it into Swift playgrounds that can be opened in Xcode. 
+We took [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) created by Apple and converted it to an Xcode playground. View it [here](https://www.swiftsimplified.com/the-language-guide). 
 
-The official documentation introduces 28 language features and is available to download on our website as a Swift playground with 28 pages of editable and executable code examples.
-
-**Our Online Course:** We took [the official Swift Language Guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) and converted it into Swift playgrounds. We simplified it, condensing the main language features into a short course that teaches all main topics required to become a Swift engineer *(based off official documentation)*. 
-
-We named our online course [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook).
+We also created an online course teaching Swift. Found [here](https://www.swiftsimplified.com/the-swift-handbook). Our online course is called [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) and teaches junior iOS developers the main features of the Swift programming language.
 
 ## The Swift Language Guide
 Apple created [the Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) to teach the following language features.
@@ -133,7 +125,7 @@ Apple created [the Swift language guide](https://docs.swift.org/swift-book/docum
 27. [Access Control](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol)
 28. [Advanced Operators](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators)
 
-We converted [the official Swift language guide](https://www.swiftsimplified.com/the-language-guide) into executable Swift playgrounds and made it free for our students. [Try it](https://www.swiftsimplified.com/the-language-guide) on our website. 
+We converted [the official Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) into executable Swift playgrounds and made it free for our students. View it [here](https://www.swiftsimplified.com/the-language-guide) on our website. 
 
 ![Swift Simplified .com](readme-images/swift-simplified-logo.png)
 ## [Swift Simplified .com](https://www.swiftsimplified.com)
