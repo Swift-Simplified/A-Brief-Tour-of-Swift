@@ -44,7 +44,7 @@
 //:
 //: -------------------
 //: ## The Swift Handbook Instructor 🧑🏼‍💻
-//: ![instructor](instructor-profile.png) Matt Harding is the instructor for our online course. He is a Swift engineer *(consultant)* and works in London for various large corporate organisations.
+//: The narrator of our courses is a professional iOS developer working as a consultant in London for a large telecommunications company.
 //:
 //: He wrote some of the worlds first iPhone, iPad and  Apple Watch apps. 📲
 //:
