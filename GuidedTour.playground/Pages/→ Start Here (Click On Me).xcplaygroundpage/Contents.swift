@@ -22,15 +22,15 @@
 //: -------------------
 //: ## Guided Tour Contents
 //:
-//: * *Topic 1:*   Simple Values
-//: * *Topic 2:*   Control Flow
-//: * *Topic 3:*   Functions and Closures
-//: * *Topic 4:*   Objects and Classes
-//: * *Topic 5:*   Enumerations and Structures
-//: * *Topic 6:*   Concurrency
-//: * *Topic 7:*   Protocols and Extensions
-//: * *Topic 8:*   Error Handling
-//: * *Topic 9:*   Generics
+//: * *Topic 1:*   [Simple Values](Simple%20Values)
+//: * *Topic 2:*   [Control Flow](Control%20Flow)
+//: * *Topic 3:*   [Functions and Closures](Functions%20and%20Closures)
+//: * *Topic 4:*   [Objects and Classes](Objects%20and%20Classes)
+//: * *Topic 5:*   [Enumerations and Structures](Enumerations%20and%20Structures)
+//: * *Topic 6:*   [Concurrency](Concurrency)
+//: * *Topic 7:*   [Protocols and Extensions](Protocols%20and%20Extensions)
+//: * *Topic 8:*   [Error Handling](Error%20Handling)
+//: * *Topic 9:*   [Generics](Generics)
 //:
 //: -------------------
 //: ## 💡 Did you Know?
