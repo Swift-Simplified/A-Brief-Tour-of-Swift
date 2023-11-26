@@ -2,11 +2,11 @@
 //:
 //: ![Swift Simplified .com](ss-in-content-logo.png) [Swift Simplified .com](https://www.swiftsimplified.com)
 //:
-//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Online Course](https://www.swiftsimplified.com/the-swift-handbook) | [Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
+//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Learn Swift Online - All 13 Main Language Features](https://www.swiftsimplified.com/the-swift-handbook)
 //:
 //: -------------------
 //: ## The  Swift Guided Tour
-//: This material is an uneditted duplicate of the offical Apple [Guided Tour Swift playground](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour), taken from the Swift.org website.
+//: This Xcode playground was created by Apple  to introduce the Swift programming language. This online course was created as a companion guide to help discuss and introduce each topic. The online tour can be found on the [Swift.org](https://www.swift.org) website [here](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour).
 //:
 //: v1 | Swift v5.9+ | Xcode 14+ | [Swift.org html Version](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
 //:
@@ -20,7 +20,7 @@ enum PrinterError: Error {
     case noToner
     case onFire
 }
-
+// << 🔵 Run Point
 //: Use `throw` to throw an error and `throws` to mark a function that can throw an error. If you throw an error in a function, the function returns immediately and the code that called the function handles the error.
 //:
 func send(job: Int, toPrinter printerName: String) throws -> String {
@@ -29,7 +29,7 @@ func send(job: Int, toPrinter printerName: String) throws -> String {
     }
     return "Job sent"
 }
-
+// << 🔵 Run Point
 //: There are several ways to handle errors. One way is to use `do`-`catch`. Inside the `do` block, you mark code that can throw an error by writing `try` in front of it. Inside the `catch` block, the error is automatically given the name `error` unless you give it a different name.
 //:
 do {
@@ -38,7 +38,7 @@ do {
 } catch {
     print(error)
 }
-
+// << 🔵 Run Point
 //: - Experiment:
 //: Change the printer name to `"Never Has Toner"`, so that the `send(job:toPrinter:)` function throws an error.
 //:
@@ -54,7 +54,7 @@ do {
 } catch {
     print(error)
 }
-
+// << 🔵 Run Point
 //: - Experiment:
 //: Add code to throw an error inside the `do` block. What kind of error do you need to throw so that the error is handled by the first `catch` block? What about the second and third blocks?
 //:
@@ -62,7 +62,7 @@ do {
 //:
 let printerSuccess = try? send(job: 1884, toPrinter: "Mergenthaler")
 let printerFailure = try? send(job: 1885, toPrinter: "Never Has Toner")
-
+// << 🔵 Run Point
 //: Use `defer` to write a block of code that’s executed after all other code in the function, just before the function returns. The code is executed regardless of whether the function throws an error. You can use `defer` to write setup and cleanup code next to each other, even though they need to be executed at different times.
 //:
 var fridgeIsOpen = false
@@ -79,6 +79,7 @@ func fridgeContains(_ food: String) -> Bool {
 }
 fridgeContains("banana")
 print(fridgeIsOpen)
+// << 🔵 Run Point
 //:
 //: -------------------
 //:
