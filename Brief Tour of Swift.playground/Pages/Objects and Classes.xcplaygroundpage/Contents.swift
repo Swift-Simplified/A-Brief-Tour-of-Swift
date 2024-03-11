@@ -1,16 +1,4 @@
-//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//:
-//: ![Swift Simplified .com](ss-in-content-logo.png) [Swift Simplified .com](https://www.swiftsimplified.com)
-//:
-//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Learn Swift Online - All 13 Main Language Features](https://www.swiftsimplified.com/the-swift-handbook)
-//:
-//: -------------------
-//: ## The  Swift Guided Tour
-//: This Xcode playground was created by Apple  to introduce the Swift programming language. This online course was created as a companion guide to help discuss and introduce each topic. The online tour can be found on the [Swift.org](https://www.swift.org) website [here](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour).
-//:
-//: v1 | Swift v5.9+ | Xcode 14+ | [Swift.org html Version](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
-//:
-//: -------------------
+
 //: ## Objects and Classes
 //:
 //: Use `class` followed by the class’s name to create a class. A property declaration in a class is written the same way as a constant or variable declaration, except that it’s in the context of a class. Likewise, method and function declarations are written the same way.
@@ -21,7 +9,7 @@ class Shape {
         return "A shape with \(numberOfSides) sides."
     }
 }
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: - Experiment:
 //: Add a constant property with `let`, and add another method that takes an argument.
 //:
@@ -30,7 +18,7 @@ class Shape {
 var shape = Shape()
 shape.numberOfSides = 7
 var shapeDescription = shape.simpleDescription()
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: This version of the `Shape` class is missing something important: an initializer to set up the class when an instance is created. Use `init` to create one.
 //:
 class NamedShape {
@@ -45,7 +33,7 @@ class NamedShape {
        return "A shape with \(numberOfSides) sides."
     }
 }
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: Notice how `self` is used to distinguish the `name` property from the `name` argument to the initializer. The arguments to the initializer are passed like a function call when you create an instance of the class. Every property needs a value assigned—either in its declaration (as with `numberOfSides`) or in the initializer (as with `name`).
 //:
 //: Use `deinit` to create a deinitializer if you need to perform some cleanup before the object is deallocated.
@@ -74,7 +62,7 @@ class Square: NamedShape {
 let test = Square(sideLength: 5.2, name: "my test square")
 test.area()
 test.simpleDescription()
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: - Experiment:
 //: Make another subclass of `NamedShape` called `Circle` that takes a radius and a name as arguments to its initializer. Implement an `area()` and a `simpleDescription()` method on the `Circle` class.
 //:
@@ -106,7 +94,7 @@ var triangle = EquilateralTriangle(sideLength: 3.1, name: "a triangle")
 print(triangle.perimeter)
 triangle.perimeter = 9.9
 print(triangle.sideLength)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: In the setter for `perimeter`, the new value has the implicit name `newValue`. You can provide an explicit name in parentheses after `set`.
 //:
 //: Notice that the initializer for the `EquilateralTriangle` class has three different steps:
@@ -140,26 +128,14 @@ print(triangleAndSquare.square.sideLength)
 print(triangleAndSquare.triangle.sideLength)
 triangleAndSquare.square = Square(sideLength: 50, name: "larger square")
 print(triangleAndSquare.triangle.sideLength)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: When working with optional values, you can write `?` before operations like methods, properties, and subscripting. If the value before the `?` is `nil`, everything after the `?` is ignored and the value of the whole expression is `nil`. Otherwise, the optional value is unwrapped, and everything after the `?` acts on the unwrapped value. In both cases, the value of the whole expression is an optional value.
 //:
 let optionalSquare: Square? = Square(sideLength: 2.5, name: "optional square")
 let sideLength = optionalSquare?.sideLength
-// << 🔵 Run Point
+// << 🔵 Execute here
 //:
 //: -------------------
 //:
 //: [Previous](@previous) | [Next](@next)
 //:
-//: -------------------
-//:
-//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
-//:
-//: 🛠 *..let's live a better life, by learning Swift*
-//:
-//: -------------------
-//:
-//: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
-//:
-//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!

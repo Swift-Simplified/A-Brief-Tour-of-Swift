@@ -1,16 +1,4 @@
-//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//:
-//: ![Swift Simplified .com](ss-in-content-logo.png) [Swift Simplified .com](https://www.swiftsimplified.com)
-//:
-//: [Swift.org](https://www.swift.org) | [SwiftSimplified.com](https://www.swiftsimplified.com) | [Learn Swift Online - All 13 Main Language Features](https://www.swiftsimplified.com/the-swift-handbook)
-//:
-//: -------------------
-//: ## The  Swift Guided Tour
-//: This Xcode playground was created by Apple  to introduce the Swift programming language. This online course was created as a companion guide to help discuss and introduce each topic. The online tour can be found on the [Swift.org](https://www.swift.org) website [here](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour).
-//:
-//: v1 | Swift v5.9+ | Xcode 14+ | [Swift.org html Version](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
-//:
-//: -------------------
+
 //: ## Control Flow
 //:
 //: Use `if` and `switch` to make conditionals, and use `for`-`in`, `while`, and `repeat`-`while` to make loops. Parentheses around the condition or loop variable are optional. Braces around the body are required.
@@ -25,7 +13,7 @@ for score in individualScores {
     }
 }
 print(teamScore)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: In an `if` statement, the conditional must be a Boolean expression—this means that code such as `if score { ... }` is an error, not an implicit comparison to zero.
 //:
 //: You can use `if` and `let` together to work with values that might be missing. These values are represented as optionals. An optional value either contains a value or contains `nil` to indicate that a value is missing. Write a question mark (`?`) after the type of a value to mark the value as optional.
@@ -38,7 +26,7 @@ var greeting = "Hello!"
 if let name = optionalName {
     greeting = "Hello, \(name)"
 }
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: - Experiment:
 //: Change `optionalName` to `nil`. What greeting do you get? Add an `else` clause that sets a different greeting if `optionalName` is `nil`.
 //:
@@ -49,13 +37,13 @@ if let name = optionalName {
 let nickname: String? = nil
 let fullName: String = "John Appleseed"
 let informalGreeting = "Hi \(nickname ?? fullName)"
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: You can use a shorter spelling to unwrap a value, using the same name for that unwrapped value.
 //:
 if let nickname {
     print("Hey, \(nickname)")
 }
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: Switches support any kind of data and a wide variety of comparison operations—they aren’t limited to integers and tests for equality.
 //:
 let vegetable = "red pepper"
@@ -69,7 +57,7 @@ switch vegetable {
     default:
         print("Everything tastes good in soup.")
 }
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: - Experiment:
 //: Try removing the default case. What error do you get?
 //:
@@ -93,7 +81,7 @@ for (_, numbers) in interestingNumbers {
     }
 }
 print(largest)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: - Experiment:
 //: Replace the `_` with a variable name, and keep track of which kind of number was the largest.
 //:
@@ -110,7 +98,7 @@ repeat {
     m *= 2
 } while m < 100
 print(m)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: You can keep an index in a loop by using `..<` to make a range of indexes.
 //:
 var total = 0
@@ -118,22 +106,10 @@ for i in 0..<4 {
     total += i
 }
 print(total)
-// << 🔵 Run Point
+// << 🔵 Execute here
 //: Use `..<` to make a range that omits its upper value, and use `...` to make a range that includes both values.
 //:
 //: -------------------
 //:
 //: [Previous](@previous) | [Next](@next)
 //:
-//: -------------------
-//:
-//: ## ![SwiftSimplified.com](swift-simplified-logo.png)
-//: [Website](https://www.swiftsimplified.com) | [The Swift Handbook](https://www.swiftsimplified.com/the-swift-handbook) | [The Swift Language Guide](https://www.swiftsimplified.com/the-swift-language-guide)
-//:
-//: 🛠 *..let's live a better life, by learning Swift*
-//:
-//: -------------------
-//:
-//: ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
-//:
-//: Welcome to our community of [SwiftSimplified.com](https://www.swiftsimplified.com) students!
