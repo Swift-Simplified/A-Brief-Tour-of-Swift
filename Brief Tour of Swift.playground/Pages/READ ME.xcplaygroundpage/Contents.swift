@@ -1,6 +1,6 @@
 //: ![SwiftSimplified.com - We teach Swift](swift-simplified-logo-large.png)
 //:
-//: ![SwiftSimplified.com - We teach Swift](ss-in-content-logo.png)  [SwiftSimplified.com](https://www.swiftsimplified.com) | [30 Days of Swift](https://www.udemy.com)
+//: ![SwiftSimplified.com - We teach Swift](ss-in-content-logo.png)  [SwiftSimplified.com](https://www.swiftsimplified.com) | [30 Days of Swift](https://www.swiftsimplified.com/30-days-of-swift)
 /*:
  
  */
@@ -11,6 +11,9 @@
 //:
 //: v1 | Swift v5.9+ | Xcode 14+
 //:
+/*:
+ 
+ */
 //: -------------------
 //: ## Contents
 //:
@@ -24,24 +27,30 @@
 //: * *Topic 8:*   [Error Handling](Error%20Handling)
 //: * *Topic 9:*   [Generics](Generics)
 //:
+/*:
+ 
+ */
 //: -------------------
 //: ## 💡 Did you Know?
-//: We teach an online bootcamp! [30 Days of Swift](https://www.swiftsimplified.com/the-swift-handbook).
+//: We teach an online bootcamp! [30 Days of Swift](https://www.swiftsimplified.com/30-days-of-swift).
 //:
 //: Our bootcamp teaches all 13 topics required to become a Swift engineer / iOS developer working in the tech industry. All information is taken from offical sources and experts building mobile products for global brands.
 //:
-//: Click to know  more 👉 [30 Days of Swift](https://www.swiftsimplified.com/the-swift-handbook)
+//: Click to know  more 👉 [30 Days of Swift](https://www.swiftsimplified.com/30-days-of-swift)
 //:
+/*:
+ 
+ */
 //: -------------------
 //:
-//: [Begin Tour by Apple ](@next)
+//: [Start Tour](@next)
 //:
 //: -------------------
 //:
 /*:
  🛠 *..let's live a better life, by learning Swift*
 
- ![Learn Swift at SwiftSimplified.com](swift-simplified-logo.png) [SwiftSimplified.com](https://www.swiftsimplified.com) | [30 Days of Swift](https://www.udemy.com)
+ ![Learn Swift at SwiftSimplified.com](swift-simplified-logo.png) [SwiftSimplified.com](https://www.swiftsimplified.com) | [30 Days of Swift](https://www.swiftsimplified.com/30-days-of-swift)
  */
 /*:
  ### 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
@@ -50,4 +59,3 @@
 */
 //:
 //: -------------------
-
